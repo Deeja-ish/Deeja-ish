@@ -50,6 +50,6 @@ I'm currently advancing my skills through the **Software Development course with
 
 * https://www.linkedin.com/in/khadija-ismail-211223293
 * [Link to your Behance/Dribbble for UI/UX portfolio (highly recommended!)]
-* Email Khadijaismail696@gmail.com 
+* Email khadijaismail696@gmail.com 
 
 ---

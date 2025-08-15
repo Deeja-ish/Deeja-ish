@@ -49,7 +49,7 @@ I'm currently advancing my skills through the **Software Development course with
 ### 🤝 Let's connect!
 
 * https://www.linkedin.com/in/khadija-ismail-211223293
-* [Link to your Behance/Dribbble for UI/UX portfolio (highly recommended!)]
+* https://dribbble.com/khadija-ismail
 * Email khadijaismail696@gmail.com 
 
 ---

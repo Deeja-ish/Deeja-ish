@@ -48,7 +48,7 @@ Open Source Collaboration: Contributing to scientific or educational technology 
 📫 Let's Connect!
 LinkedIn: [https://www.linkedin.com/in/khadija-ismail-211223293]
 
-Twitter/X: [Your Link Here]
+Twitter/X: [https://x.com/reactwithdee]
 
 Dribble: [https://dribbble.com/khadija-ismail]
 

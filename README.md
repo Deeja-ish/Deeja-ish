@@ -1,55 +1,61 @@
-### Hi there 👋 I'm Khadija ismail Goni!
+### Hi there 👋 I'm Khadija Ismail Goni
+Bridging the Gap Between the Lab and the Code I am a final-year Industrial Chemistry student and a Frontend Developer & Data Analyst. My mission is to leverage technology—through intuitive UI/UX, robust frontend builds, and data-driven insights—to solve complex problems in the industrial and chemical sectors.
 
-I'm a passionate **Frontend Developer enthusiast** and **UI/UX Designer** with a strong drive to create intuitive and visually appealing web experiences. I thrive on bringing designs to life through code and ensuring exceptional user experiences.
+🧪 The Lab Meets the Code
+I specialize in the intersection of chemistry and technology. Whether it's analyzing heavy metal content in cosmetics or building responsive web applications, I focus on precision, usability, and data integrity.
 
-I'm currently advancing my skills through the **Software Development course with Power Learn Project Africa**, where I'm gaining a solid foundation in various programming concepts and web technologies.
+Currently Finishing: My final year project on heavy metal analysis in Nigerian cosmetics using Atomic Absorption Spectroscopy (AAS).
+
+The Vision: Building the future of Halal Cosmetic Manufacturing through tech-driven quality control and data analysis.
+
+🛠️ Technologies & Tools
+Frontend Development & UI/UX
+
+Frameworks: React.js, JavaScript (ES6+), HTML5, CSS3
+
+Design: Figma (Wireframing, Prototyping, User Research)
+
+Styling: Bootstrap, Tailwind CSS
+
+Data Analysis & Science
+
+Languages: Python, R, SQL
+
+Visualization: Tableau, Google Sheets, Matplotlib/Seaborn
+
+Focus: Statistical modeling and industrial data trends.
+
+Version Control & Industry Tools
+
+Git, GitHub
+
+Lab Analysis & Spectroscopy techniques
+
+🚀 What I'm Currently Working On
+Ramadan Planner: A mobile-first application built on Replit to help users manage their spiritual goals.
+
+Industrial Data Insights: Applying R and Python to analyze chemical compositions and manufacturing efficiency.
+
+Advanced Data Analytics: Currently deepening my expertise via the Google Advanced Data Analytics program.
+
+🌱 My Goals
+Build ChemTech Solutions: Developing tools that simplify lab data management and industrial processes.
+
+Portfolio Growth: Showcasing projects that blend React frontend skills with Python/R data visualizations.
+
+Open Source Collaboration: Contributing to scientific or educational technology projects.
+
+📫 Let's Connect!
+LinkedIn: [https://www.linkedin.com/in/khadija-ismail-211223293]
+
+Twitter/X: [Your Link Here]
+
+Dribble: [https://dribbble.com/khadija-ismail]
+
+Email: [khadijaismail696@gmail.com]
+
+
+"In the world of atoms and bits, I’m the bridge."
 
 ---
 
-### 🎨 What I'm passionate about:
-
-* **Frontend Development:** Building responsive, performant, and accessible user interfaces using modern web technologies.
-* **UI/UX Design:** Crafting user-centered designs, from wireframing and prototyping to user testing and iteration. I believe good design is at the heart of great software.
-
----
-
-### 🚀 What I'm currently learning/working on:
-
-* **Power Learn Project Africa:** Deepening my understanding of JavaScript, React, HTML, CSS, Express.js etc.
-* **Feexet Limited:**
-  Deepening my UI/UX knowledge. 
-
----
-
-### 💻 Technologies & Tools:
-
-**Frontend:**
-* HTML5, CSS3, JavaScript (ES6+)
-* Bootstrap
-
-**UI/UX Design:**
-* Figma
-* Wireframing, Prototyping, User Flows, User Research, Usability Testing
-
-**Version Control:**
-* Git, GitHub
-
-**Other:**
-* Python
----
-
-### 🌱 My goals:
-
-* To build a strong portfolio of impactful frontend and UI/UX projects.
-* To collaborate on open-source projects and learn from experienced developers.
-* To secure a role where I can apply my combined frontend development and UI/UX design skills to create meaningful digital products.
-
----
-
-### 🤝 Let's connect!
-
-* https://www.linkedin.com/in/khadija-ismail-211223293
-* https://dribbble.com/khadija-ismail
-* Email khadijaismail696@gmail.com 
-
----

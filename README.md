@@ -1,61 +1,61 @@
 ### Hi there 👋 I'm Khadija Ismail Goni
-Bridging the Gap Between the Lab and the Code I am a final-year Industrial Chemistry student and a Frontend Developer & Data Analyst. My mission is to leverage technology—through intuitive UI/UX, robust frontend builds, and data-driven insights—to solve complex problems in the industrial and chemical sectors.
+Bridging the Gap Between the Lab and the Code I am a final-year Industrial Chemistry student and a Frontend Developer & Data Analyst. My mission is to leverage technology—through intuitive UI/UX, robust frontend builds, and d## 👋 Hi, I’m Khadija Ismail Goni
 
-🧪 The Lab Meets the Code
-I specialize in the intersection of chemistry and technology. Whether it's analyzing heavy metal content in cosmetics or building responsive web applications, I focus on precision, usability, and data integrity.
+**Bridging the gap between the lab and the code.**
 
-Currently Finishing: My final year project on heavy metal analysis in Nigerian cosmetics using Atomic Absorption Spectroscopy (AAS).
+I’m a final-year **Industrial Chemistry** student, **Frontend Developer**, and **Data Analyst** passionate about using technology to solve real-world problems in the industrial and chemical sectors.
 
-The Vision: Building the future of Halal Cosmetic Manufacturing through tech-driven quality control and data analysis.
-
-🛠️ Technologies & Tools
-Frontend Development & UI/UX
-
-Frameworks: React.js, JavaScript (ES6+), HTML5, CSS3
-
-Design: Figma (Wireframing, Prototyping, User Research)
-
-Styling: Bootstrap, Tailwind CSS
-
-Data Analysis & Science
-
-Languages: Python, R, SQL
-
-Visualization: Tableau, Google Sheets, Matplotlib/Seaborn
-
-Focus: Statistical modeling and industrial data trends.
-
-Version Control & Industry Tools
-
-Git, GitHub
-
-Lab Analysis & Spectroscopy techniques
-
-🚀 What I'm Currently Working On
-Ramadan Planner: A mobile-first application built on Replit to help users manage their spiritual goals.
-
-Industrial Data Insights: Applying R and Python to analyze chemical compositions and manufacturing efficiency.
-
-Advanced Data Analytics: Currently deepening my expertise via the Google Advanced Data Analytics program.
-
-🌱 My Goals
-Build ChemTech Solutions: Developing tools that simplify lab data management and industrial processes.
-
-Portfolio Growth: Showcasing projects that blend React frontend skills with Python/R data visualizations.
-
-Open Source Collaboration: Contributing to scientific or educational technology projects.
-
-📫 Let's Connect!
-LinkedIn: [https://www.linkedin.com/in/khadija-ismail-211223293]
-
-Twitter/X: [https://x.com/reactwithdee]
-
-Dribble: [https://dribbble.com/khadija-ismail]
-
-Email: [khadijaismail696@gmail.com]
-
-
-"In the world of atoms and bits, I’m the bridge."
+I work at the intersection of **chemistry, data, and user-centered software**, turning laboratory results and industrial data into clear insights and intuitive digital products.
 
 ---
 
+## 🧪 When Chemistry Meets Code
+- Heavy metal analysis in cosmetics using **Atomic Absorption Spectroscopy (AAS)**
+- Data-driven quality control and industrial analysis
+- Building responsive, accessible frontend applications
+- Translating scientific data into usable dashboards and interfaces
+
+🎓 **Final Year Project**  
+Heavy metal analysis of Nigerian cosmetic products using AAS, focusing on safety, compliance, and public health.
+
+🌍 **Vision**  
+Building tech-driven solutions for **Halal and ethical cosmetic manufacturing** through quality control, data analysis, and smart digital tools.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend & UI/UX**  
+React.js · JavaScript (ES6+) · HTML5 · CSS3  
+Tailwind CSS · Bootstrap · Figma  
+
+**Data Analysis & Science**  
+Python · R · SQL  
+Tableau · Google Sheets · Matplotlib · Seaborn  
+
+**Tools & Research**  
+Git · GitHub · Spectroscopy & lab analysis techniques
+
+---
+
+## 🚀 Currently Working On
+- 🌙 Ramadan Planner — a mobile-first productivity & spiritual planning app
+- 📊 Industrial Data Insights — chemical & manufacturing analysis using Python and R
+- 📈 Advanced Data Analytics — Google Advanced Data Analytics program
+
+---
+
+## 🌱 Goals
+- Build **ChemTech tools** that simplify lab and industrial data workflows
+- Grow a portfolio blending **React interfaces with scientific data visualization**
+- Contribute to **open-source scientific and educational technology projects**
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/khadija-ismail-211223293  
+- Twitter/X: https://x.com/reactwithdee  
+- Dribbble: https://dribbble.com/khadija-ismail  
+- Email: khadijaismail696@gmail.com  
+
+> *“In the world of atoms and bits, I’m the bridge.”*

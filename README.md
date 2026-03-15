@@ -38,13 +38,6 @@ Git · GitHub · Spectroscopy & lab analysis techniques
 
 ---
 
-## 🚀 Currently Working On
-- 🌙 Ramadan Planner — a mobile-first productivity & spiritual planning app
-- 📊 Industrial Data Insights — chemical & manufacturing analysis using Python and R
-- 📈 Advanced Data Analytics — Google Advanced Data Analytics program
-
----
-
 ## 🌱 Goals
 - Build **ChemTech tools** that simplify lab and industrial data workflows
 - Grow a portfolio blending **React interfaces with scientific data visualization**

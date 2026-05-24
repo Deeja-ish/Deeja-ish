@@ -1,25 +1,11 @@
 ### Hi there 👋 I'm Khadija Ismail Goni
-Bridging the Gap Between the Lab and the Code I am a final-year Industrial Chemistry student and a Frontend Developer & Data Analyst. My mission is to leverage technology—through intuitive UI/UX, robust frontend builds, and d## 👋 Hi, I’m Khadija Ismail Goni
+Bridging the Gap Between the Lab and the Code. I am a final-year Industrial Chemistry student and a Frontend Developer & Data Analyst. My mission is to leverage technology through intuitive UI/UX, robust frontend builds, and d## 👋 Hi, I’m Khadija Ismail Goni
 
 **Bridging the gap between the lab and the code.**
 
 I’m a final-year **Industrial Chemistry** student, **Frontend Developer**, and **Data Analyst** passionate about using technology to solve real-world problems in the industrial and chemical sectors.
 
-I work at the intersection of **chemistry, data, and user-centered software**, turning laboratory results and industrial data into clear insights and intuitive digital products.
-
----
-
-## 🧪 When Chemistry Meets Code
-- Heavy metal analysis in cosmetics using **Atomic Absorption Spectroscopy (AAS)**
-- Data-driven quality control and industrial analysis
-- Building responsive, accessible frontend applications
-- Translating scientific data into usable dashboards and interfaces
-
-🎓 **Final Year Project**  
-Heavy metal analysis of Nigerian cosmetic products using AAS, focusing on safety, compliance, and public health.
-
-🌍 **Vision**  
-Building tech-driven solutions for **Halal and ethical cosmetic manufacturing** through quality control, data analysis, and smart digital tools.
+I work at the intersection of **chemistry, data, and user-centred software**, turning laboratory results and industrial data into clear insights and intuitive digital products.
 
 ---
 
@@ -40,7 +26,7 @@ Git · GitHub · Spectroscopy & lab analysis techniques
 
 ## 🌱 Goals
 - Build **ChemTech tools** that simplify lab and industrial data workflows
-- Grow a portfolio blending **React interfaces with scientific data visualization**
+- Grow a portfolio blending **React interfaces with scientific data visualiastion**
 - Contribute to **open-source scientific and educational technology projects**
 
 ---

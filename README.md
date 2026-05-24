@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Khadija Ismail Goni
-Bridging the Gap Between the Lab and the Code. I am a final-year Industrial Chemistry student and a Frontend Developer & Data Analyst. My mission is to leverage technology through intuitive UI/UX, robust frontend builds, and d## 👋 Hi, I’m Khadija Ismail Goni
+Bridging the Gap Between the Lab and the Code. I am a final-year Industrial Chemistry student and a Frontend Developer & Data Analyst. My mission is to leverage technology through intuitive UI/UX, robust frontend builds, and data analysis.
 
 **Bridging the gap between the lab and the code.**
 

@@ -1,25 +1,79 @@
-### Hi there 👋 I'm Khadija Ismail Goni
-**Bridging the gap between the lab and the code.**
+# Hi there, I'm Khadija Ismail 👋
 
-I’m a final-year **Industrial Chemistry** student, **Frontend Developer**, and **Data Analyst** passionate about using technology to solve real-world problems in the industrial and chemical sectors.
+I'm an Industrial Chemistry graduate with a passion for Data Analytics, Machine Learning, and Data Visualisation. I enjoy transforming raw and complex datasets into meaningful insights through interactive dashboards, predictive models, and data-driven applications.
 
-I work at the intersection of **chemistry, data, and user-centred software**, turning laboratory results and industrial data into clear insights and intuitive digital products.
+My goal is to combine analytical thinking with domain knowledge to solve real-world challenges in manufacturing, logistics, sustainability, and industrial operations.
 
+I'm continuously expanding my skills by building hands-on projects using SQL, Python, Tableau, R, Flask, and modern data visualisation tools.
+
+---
+## 🚀 What I'm Currently Working On
+
+- 📊 Building end-to-end data analytics projects
+- 🤖 Learning Machine Learning through practical projects
+- 📈 Creating interactive dashboards with Tableau
+- 🐍 Developing data-driven web applications using Flask
+- 🧪 Applying analytics to industrial and manufacturing datasets
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend & UI/UX**  
-React.js · JavaScript (ES6+) · HTML5 · CSS3  
-Tailwind CSS · Bootstrap · Figma  
+### Programming Languages
+- Python
+- SQL
+- R
+- HTML
+- CSS
+- JavaScript
+- React
 
-**Data Analysis & Science**  
-Python · R · SQL  
-Tableau · Google Sheets · Matplotlib · Seaborn  
+### Data Analytics & Visualization
+- Tableau
+- Excel
+- Chart.js
+- Pandas
+- NumPy
 
-**Tools & Research**  
-Git · GitHub · Spectroscopy & lab analysis techniques
+### Machine Learning
+- Scikit-learn
+- Matplotlib
+- Model Evaluation
+- Feature Engineering
 
+### Web Development
+- Flask
+- Jinja2
+- MySQL
+- REST APIs
+
+### Development Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- RStudio
+
+---
+
+## 🌍 Areas of Interest
+
+- Industrial Data Analytics
+- Manufacturing Analytics
+- Supply Chain Analytics
+- Sustainability Analytics
+- Business Intelligence
+- Machine Learning
+- Predictive Analytics
+- Data Visualisation
+---
+## 📚 Currently Learning
+
+- Advanced SQL
+- Machine Learning
+- Tableau Dashboard Design
+- R Programming
+- Statistical Analysis
+- Flask Backend Development
 ---
 
 ## 🌱 Goals
@@ -31,8 +85,9 @@ Git · GitHub · Spectroscopy & lab analysis techniques
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/khadija-ismail-211223293  
-- Twitter/X: https://x.com/reactwithdee  
-- Dribbble: https://dribbble.com/khadija-ismail  
+- Twitter/X: https://x.com/reactwithdee
+- Kaggle: https://www.kaggle.com/deeeja
+- Tableau: https://public.tableau.com/app/profile/khadija.goni/vizzes
 - Email: khadijaismail696@gmail.com  
 
 > *“In the world of atoms and bits, I’m the bridge.”*

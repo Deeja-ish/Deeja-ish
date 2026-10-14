@@ -17,7 +17,6 @@ Backend Engineering • Machine Learning • NLP • Industrial AI
 - LinkedIn: https://www.linkedin.com/in/khadija-ismail-211223293  
 - Twitter/X: https://x.com/reactwithdee
 - Kaggle: https://www.kaggle.com/deeeja
-- Tableau: https://public.tableau.com/app/profile/khadija.goni/vizzes
 - Email: khadijaismail696@gmail.com  
 
 > *“In the world of atoms and bits, I’m the bridge.”*
